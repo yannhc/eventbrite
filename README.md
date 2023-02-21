@@ -1,24 +1,11 @@
-# README
+Projets : Eventbrite : Devise et premières views
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+La on attaque le vif du sujet. Ce fut 2 longues journées de travail, pour un rendu minimaliste malheureusement. 
 
-Things you may want to cover:
+Content quand même du résultat ! J'ai beaucoup plus travaillé sur le back que le front, comprendre les liaisons etc.
 
-* Ruby version
+Il y a malheureusement des bugs, mais bon, un rendu qui prouve qu'un travail et qu'une reflexion a été faite.
 
-* System dependencies
+Mailer, password, log in etc. On commence à avoir notre socle (à pofiner largement) qui nous donne les clés d'un vraie site internet dynamique.
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+BUG avec Heroku par contre. Eh oui, les formations intensives, ça demande du travail personnel par la suite!
